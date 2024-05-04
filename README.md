@@ -11,7 +11,7 @@
 ## Статус работы
 | Файл | Статус |
 |-----------------|-------------------------------------------------------|
-| `actions`       | <span style="color:red">Готово ✔️</span>              |
+| `actions`       | <span style="color:red">В работе 📝</span>              |
 | `auth`          | <span style="color:green">Проверка перевода 🔄</span> |
 | `http-statuses` | <span style="color:green">Готово ✔️</span>            |
 | `pagination`    | <span style="color:green">Готово ✔️</span>            |
