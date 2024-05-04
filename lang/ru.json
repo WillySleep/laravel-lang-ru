@@ -108,7 +108,6 @@
     "Network Read Timeout Error": "Истекло время ожидания",
     "New": "Новый",
     "New :name": "Новый :name",
-    "No": "Нет",
     "No Content": "Содержимое отсутствует",
     "Non-Authoritative Information": "Информация не авторитетна",
     "Not Acceptable": "Неприемлемо",
@@ -215,5 +214,6 @@
     "Web Server is Down": "Веб-сервер не работает",
     "Whoops!": "Упс!",
     "Yes": "Да",
+    "No": "Нет",
     "You are receiving this email because we received a password reset request for your account.": "Вы получили это письмо, потому что мы получили запрос на сброс пароля для Вашей учётной записи."
 }
