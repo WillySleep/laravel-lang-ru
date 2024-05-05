@@ -1,10 +1,10 @@
-# Laravel Ru - Перевод компонентов Laravel v10-v11
+# Laravel Lang - Перевод компонентов Laravel v10-v11
 
 
 ## Установка
 1. Установите репозиторий в .zip формате.
 2. Распакуйте папку в корень проекта.
-3. Зайдите в `config/app.php` и в поле `locale` и `faker_locale` укажите `ru`, оставив `fallback_locale` со значением `en`.
+3. Зайдите в `config/app.php` и в поле `locale` и `faker_locale` укажите нужный язык, оставив `fallback_locale` со значением `en`.
 4. Выключить сервер, выполнить команду `composer dump-autoload` и включить сервер. 
 5. Готово. Не забудьте добавлять в свой `Request` функцию `attributes()` для названия полей!
 
