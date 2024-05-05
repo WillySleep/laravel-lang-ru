@@ -1,4 +1,4 @@
-# Laravel Lang - Перевод компонентов Laravel v10-v11
+# Laravel Ru - Перевод компонентов Laravel v10-v11
 
 
 ## Установка
