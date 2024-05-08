@@ -29,3 +29,4 @@
 | `pagination`    | <span style="color:green">Завершено ✔️</span>            |
 | `passwords`     | <span style="color:green">Завершено ✔️</span>            |
 | `validation`    | <span style="color:green">Завершено ✔️</span>            |
+| `vite`          | <span style="color:green">В работе 📝</span>             |
