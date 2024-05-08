@@ -22,11 +22,11 @@
 
 ## Статус работы
 | Файл | Статус |
-|-----------------|-----------------------------------------------------------|
-| `actions`       | <span style="color:green">Завершено ✔️</span>            |
-| `auth`          | <span style="color:green">Завершено ✔️</span>            |
-| `http-statuses` | <span style="color:green">Завершено ✔️</span>            |
-| `pagination`    | <span style="color:green">Завершено ✔️</span>            |
-| `passwords`     | <span style="color:green">Завершено ✔️</span>            |
-| `validation`    | <span style="color:green">Завершено ✔️</span>            |
-| `vite`          | <span style="color:green">В работе 📝</span>             |
+|-----------------|------------------------------------------------|
+| `actions`       | <span style="color:green">Завершено ✔️</span> |
+| `auth`          | <span style="color:green">Завершено ✔️</span> |
+| `http-statuses` | <span style="color:green">Завершено ✔️</span> |
+| `pagination`    | <span style="color:green">Завершено ✔️</span> |
+| `passwords`     | <span style="color:green">Завершено ✔️</span> |
+| `validation`    | <span style="color:green">Завершено ✔️</span> |
+| `vite`          | <span style="color:green">В работе 📝</span>  |
